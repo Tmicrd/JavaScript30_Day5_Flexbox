@@ -22,7 +22,7 @@ body {
   font-size: 1rem;
   font-weight: 700;
   color: #001e6c;
-  transition: all 0.7s cubic-bezier(0.72, 0.22, 0.57, 0.66);
+  transition: all 0.3s cubic-bezier(0.72, 0.22, 0.57, 0.66);
 }
 
 .panel > p {
